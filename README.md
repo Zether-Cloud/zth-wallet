@@ -10,7 +10,7 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 
 ```bash
 # Clone this repository
-git clone https://github.com/def671/zth-wallet
+git clone https://github.com/Zether-Cloud/zth-wallet
 # Go into the repository
 cd zth-wallet
 # Install dependencies
